@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(237,210,99,255);
+}
+.search-button{
+    margin-top: 100px;
+    text-align: center;
+}
+.input-area{
+    border-radius: 3px;
+    padding: 13px;
+    width: 350px;
+    background-color: white;
+    border: none;
+}
+.button{
+    border-radius: 3px;
+    padding: 13px;
+    width: 90px;
+    color: white;
+    background-color: rgba(59,45,100,255);
+    border: none;
+}
+.card{
+    margin-top: 50px;
+    background-color: white;
+    width: 300px;
+    border-radius: 20px;
+    margin: 30px;
+    font-size: 5px;
+    text-align: center;
+}
+#food-items{
+    padding-left: 120px;
+}
+#food-item-details{
+    text-align: center;
+}
+#food-item-details img{
+    margin-top: 50px;
+    width: 350px;
+}
